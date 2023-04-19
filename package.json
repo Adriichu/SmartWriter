@@ -1,0 +1,10 @@
+{
+  "name": "smartwriter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aaron_",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "openai": "^3.2.1"
+  }
+}
